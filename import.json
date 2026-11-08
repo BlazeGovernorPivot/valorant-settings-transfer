@@ -1,0 +1,7 @@
+{
+  "keywords": ["valorant", "valorant-settings", "valorant-crosshair", "crosshair-code", "settings-transfer", "valorant-keybinds", "config-sync", "settings-backup", "tauri", "rust"],
+  "repo_name": "valorant-settings-transfer",
+  "repo_desc": "Copy Valorant settings, crosshairs and keybinds between accounts",
+  "release_name": "ValSync-v1.0.0-win-x64.zip",
+  "app_name": "ValSync.exe"
+}

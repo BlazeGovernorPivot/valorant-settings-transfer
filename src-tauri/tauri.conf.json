@@ -1,0 +1,30 @@
+{
+  "productName": "ValSync",
+  "mainBinaryName": "ValSync",
+  "version": "1.0.0",
+  "identifier": "com.valsync.desktop",
+  "build": { "frontendDist": "../ui" },
+  "app": {
+    "withGlobalTauri": true,
+    "windows": [
+      {
+        "label": "main",
+        "title": "ValSync",
+        "width": 1200,
+        "height": 780,
+        "minWidth": 1040,
+        "minHeight": 680,
+        "decorations": false,
+        "center": true
+      }
+    ],
+    "security": { "csp": null }
+  },
+  "bundle": {
+    "active": true,
+    "targets": ["nsis"],
+    "icon": ["icons/icon.png", "icons/icon.ico"],
+    "shortDescription": "Valorant settings transfer between accounts",
+    "copyright": "Copyright (c) 2026 ValSync contributors"
+  }
+}
